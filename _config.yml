@@ -1,0 +1,9 @@
+# Site settings
+title: blog
+description: "Amazing posts here."
+url: "http://get.dotser.com"
+# baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
